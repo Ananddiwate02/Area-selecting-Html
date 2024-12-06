@@ -22,5 +22,6 @@ Basic knowledge of HTML and JavaScript
 
 # Contact Information
 For any questions or inquiries, please contact the repository owner at:
-Email: Ananddiwatai@gmail.com
+# Email: Ananddiwatai@gmail.com
+
 Phno : 8197987099
